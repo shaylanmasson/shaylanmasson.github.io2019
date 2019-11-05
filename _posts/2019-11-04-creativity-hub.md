@@ -17,6 +17,6 @@ intro_paragraph: >-
 
 
   In order to present our final design, we did extensive research into our users
-  through surveying and interviewing as well as visiting other creative spaces.
+  through surveying and interviewing, as well as visiting other creative spaces.
 ---
 
