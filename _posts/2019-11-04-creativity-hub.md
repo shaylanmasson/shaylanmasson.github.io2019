@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creativity Hub
+title: The Creativity Hub
 author: shaylan_masson
 date: '2019-11-04 19:14:53'
 intro_paragraph: >-
